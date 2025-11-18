@@ -6,3 +6,4 @@ class UserRole(str, Enum):
     CTO = "CTO"
     ProjectLead = "ProjectLead"
     Engineer = "Engineer"
+    Developer = "Developer"
